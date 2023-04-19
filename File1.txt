@@ -5,6 +5,6 @@ commit test
 
 
 789.
-privet git
-ewe praz privet
+privet gitet
 new branch line
+last lesson
